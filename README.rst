@@ -30,6 +30,10 @@ Testing
 sh test.sh
 
 
+Visualizing
+============
+sh visualizing.sh
+
 Citation
 ============
 
